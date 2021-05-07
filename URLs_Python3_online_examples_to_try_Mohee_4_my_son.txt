@@ -1,0 +1,8 @@
+99 basic Python 3 examples from zero to intermediate level:
+https://www.programiz.com/python-programming/examples
+========================================================================================================================
+26 Python 3 examples from beginner to intermediate level:
+https://skillcrush.com/blog/python-programming-examples/
+========================================================================================================================
+> 100 of Python 3 excercises for Intermediate to Expert level:
+https://www.w3resource.com/python-exercises/
