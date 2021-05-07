@@ -40,3 +40,6 @@ Also there are excellent Python 3 modules and important to know, like: Numpy, Pa
  Guido van Rossum (founder and creator of this language: Thank you) began working on Python in the late 1980s, as a successor to the ABC programming language,
  and first released it in 1991 as Python 0.9.0, then Python 2.0 was released in 2000 and introduced new features, then Python 3.0 was released in 2008 and was a major revision
  of the language that is not completely backward-compatible and much Python 2 code does not run unmodified on Python 3.
+ 
+ ![usage_of_Python3_in_the_world](https://user-images.githubusercontent.com/32415978/117450722-48473900-af4a-11eb-81cd-0bd3a83800e2.png)
+
