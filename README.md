@@ -1,4 +1,4 @@
-# Python3 Beginner Examples
+# Python3 Beginner Examples (main Python source file is: python3_cheat_examples_basic_knowledge_baabaaa.py)
 Full Python3 beginner examples - rush examples to learn quickly in less than 24h the programming language.
 
 Python 3 - Quick Beginner Code-Sheet Examples (originally made for Mansour "my son", or for anyone would like to learn Python 3 - quickly in <= 24 hours
